@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721860571091",
+    "project_id": "alhabeeb-e3222",
+    "storage_bucket": "alhabeeb-e3222.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721860571091:android:3f94402011faef25390926",
+        "android_client_info": {
+          "package_name": "com.example.myhabeeb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUA1J9bZAnw1HX9yxTH-2D6VyH7Gnu28s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
